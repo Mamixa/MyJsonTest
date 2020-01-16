@@ -1,37 +1,42 @@
 {
-  "data": [
+  "class": [
     {
-      "sessionId": 3,
-      "classId": "BBN0653",
-      "className": "Visual Communication Design 1",
-      "lecturerName": "Liliek Adelina Suhardjono, S.Sn., M.Arts.",
-      "roomNo": 204,
-      "campusName": "Anggrek",
-      "timeStart": "09:20",
-      "timeEnd": "13:00",
-      "classProg": 1
-    },
-    {
-      "sessionId": 3,
-      "classId": "AFN0353",
-      "className": "Character Building: Kewarganegaraan",
-      "lecturerName": "Bayu Prakoso Dirgantoro, MMDes.",
-      "roomNo": 211,
-      "campusName": "Anggrek",
-      "timeStart": "13:20",
-      "timeEnd": "17:00",
-      "classProg": 1
-    },
-    {
-      "sessionId": 4,
-      "classId": "CBN4251",
-      "className": "English for Written Business Communication",
-      "lecturerName": "Ratna Dewi Paramita, MA.",
-      "roomNo": 213,
-      "campusName": "Syahdan",
-      "timeStart": "09:20",
-      "timeEnd": "13:00",
-      "classProg": 1
+      "page": 1,
+      "data": [
+        {
+          "sessionId": 3,
+          "classId": "BBN0653",
+          "className": "Visual Communication Design 1",
+          "lecturerName": "Liliek Adelina Suhardjono, S.Sn., M.Arts.",
+          "roomNo": 204,
+          "campusName": "Anggrek",
+          "timeStart": "09:20",
+          "timeEnd": "13:00",
+          "classProg": 1
+        },
+        {
+          "sessionId": 3,
+          "classId": "AFN0353",
+          "className": "Character Building: Kewarganegaraan",
+          "lecturerName": "Bayu Prakoso Dirgantoro, MMDes.",
+          "roomNo": 211,
+          "campusName": "Anggrek",
+          "timeStart": "13:20",
+          "timeEnd": "17:00",
+          "classProg": 1
+        },
+        {
+          "sessionId": 4,
+          "classId": "CBN4251",
+          "className": "English for Written Business Communication",
+          "lecturerName": "Ratna Dewi Paramita, MA.",
+          "roomNo": 213,
+          "campusName": "Syahdan",
+          "timeStart": "09:20",
+          "timeEnd": "13:00",
+          "classProg": 1
+        }
+      ]
     }
   ]
 }
