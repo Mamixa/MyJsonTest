@@ -1,8 +1,8 @@
 {
-  "class": [
+  "data": [
     {
       "page": 1,
-      "data": [
+      "class": [
         {
           "sessionId": 3,
           "classId": "BBN0653",
