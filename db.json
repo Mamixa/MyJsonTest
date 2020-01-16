@@ -2,6 +2,7 @@
   "data": [
     {
       "page": 1,
+      "total": 3,
       "class": [
         {
           "sessionId": 3,
